@@ -1,0 +1,15 @@
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\bin\Debug\net6.0\ROK.exe
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\bin\Debug\net6.0\ROK.deps.json
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\bin\Debug\net6.0\ROK.runtimeconfig.json
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\bin\Debug\net6.0\ROK.dll
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\bin\Debug\net6.0\ROK.pdb
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\obj\Debug\net6.0\ROK.csproj.AssemblyReference.cache
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\obj\Debug\net6.0\ROK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\obj\Debug\net6.0\ROK.AssemblyInfoInputs.cache
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\obj\Debug\net6.0\ROK.AssemblyInfo.cs
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\obj\Debug\net6.0\ROK.csproj.CoreCompileInputs.cache
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\obj\Debug\net6.0\ROK.dll
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\obj\Debug\net6.0\refint\ROK.dll
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\obj\Debug\net6.0\ROK.pdb
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\obj\Debug\net6.0\ROK.genruntimeconfig.cache
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania\ROK\ROK\obj\Debug\net6.0\ref\ROK.dll
